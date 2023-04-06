@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+</body>
+</html>
+<script>
+    diemVatly = prompt("nhập điểm hóa")
+    diemHoa = prompt("nhập điểm hóa học")
+    diemSinhhoc = prompt("nhập điểm sinh học")
+    let vatly = parseInt(diemVatly);
+    let hoa = parseInt(diemHoa);
+    let sinhhoc = parseInt(diemSinhhoc);
+    let tong = (vatly+hoa+sinhhoc)
+    document.write("Tổng điểm của bạn là :" + tong )
+    document.write("<br>")
+    let diemtrungbinh = tong / 3
+    document.write("Điểm trung bình của bạn là : " + diemtrungbinh)
+</script>
