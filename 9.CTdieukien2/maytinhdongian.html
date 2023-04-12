@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+<tr>
+  <td colspan="4"><input type="text" id="nhapso"></td>
+
+</tr>
+<tr>
+  <td><button onclick="Input(this.value)" type="button" value="1" >1</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="2">2</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="3">3</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="+">+</button></td>
+</tr>
+<tr>
+  <td><button onclick="Input(this.value)" type="button" value="4">4</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="5">5</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="6">6</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="-">-</button></td>
+</tr>
+<tr>
+  <td><button onclick="Input(this.value)" type="button" value="7">7</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="8">8</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="9">9</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="*">x</button></td>
+</tr>
+<tr>
+  <td><button onclick="Delete();" value="C">C</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="0">0</button></td>
+  <td><button onclick="Result()" value="=">=</button></td>
+  <td><button onclick="Input(this.value)" type="button" value="/">/</button></td>
+</tr>
+</table>
+<script>
+  let enter = document.getElementById("nhapso");
+  function Input(value){
+    enter.value += value;
+  }
+  function Result(){
+    let result = eval(enter.value);
+    enter.value = result;
+  }
+  function  Delete(){
+    enter.value = "";
+  }
+</script>
+
+

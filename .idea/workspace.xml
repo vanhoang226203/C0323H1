@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eed8f487-9f30-4b93-83c1-ffd7375187d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/10.vonglapFor/SDvonglapDoWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.vonglapFor/SDvonglaplong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.vonglapFor/SDvonglapwhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.vonglapFor/XephanghoclucHS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.vonglapFor/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.vonglapFor/tinhtong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/30sochiahetcho7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/Bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/Fibodauchiahetcho5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/Tongcua20sofibonacci.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/Tongcua30sochiahetcho7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/diem1den100.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/hienthi20sodaufibo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/hienthicacSNT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/sochan5_50.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.cautruclap2/tanggiamC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.mang/Daongcmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.mang/Gtrilonnhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.mang/Taobancocaro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.mang/Taovathaotacmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.mang/Timgtrimang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.caulenhđk/LTctSwithCase.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Cannang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Cannang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Hoahongnhandc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/KtraAchiahetchoBko.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Sohsdudklenlop10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Solonhaybehon0.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Solonnhattrong3so.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/Songaycuarthang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9.CTdieukien2/maytinhdongian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.CTdieukien2/Skbanphim.html" beforeDir="false" afterPath="$PROJECT_DIR$/9.CTdieukien2/Skbanphim.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NtarBg414JKx1BulsTGKxwXl1o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nguye/OneDrive/Desktop/Baitap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed8f487-9f30-4b93-83c1-ffd7375187d3" name="Changes" comment="" />
+      <created>1680486029006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680486029006</updated>
+      <workItem from="1680486030182" duration="18494000" />
+      <workItem from="1680570689816" duration="12548000" />
+      <workItem from="1680656928100" duration="31664000" />
+      <workItem from="1680829338212" duration="14624000" />
+      <workItem from="1680964745520" duration="8681000" />
+      <workItem from="1681014801797" duration="6277000" />
+      <workItem from="1681090065599" duration="38347000" />
+      <workItem from="1681261282205" duration="3228000" />
+      <workItem from="1681287459847" duration="3098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

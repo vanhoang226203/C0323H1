@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+  let n = parseInt(prompt("nhap so"));
+  let tylehoahong;
+  let tienhoahong;
+
+  if (n <= 1000) {
+    tylehoahong = 0.05;
+  } else if (n > 1000 && n <= 2000) {
+    tylehoahong = 0.07;
+  } else {
+    tylehoahong = 0.1;
+  }
+
+  tienhoahong = n * tylehoahong;
+
+  alert(tienhoahong)
+
+
+
+</script>

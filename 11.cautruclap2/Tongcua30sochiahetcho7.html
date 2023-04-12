@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    let count = 0
+    let sum1 = 1
+    let sum2 = 0
+    let sum3 = 0
+    let total = 0
+    for (let i = 0; i < 30; i++) {
+        if (i % 7 === 0) {
+            sum3 = sum1 + sum2;
+            sum1 = sum2
+            sum2 = sum3
+            total += sum2
+        }document.write(total)
+    }
+
+    
+</script>

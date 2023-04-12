@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+    let a = +prompt("nhập điểm miệng")
+    let b = +prompt("nhập điểm 15 phút")
+    let c = +prompt("nhập điểm thi giữa kì")
+    let d = +prompt("nhập điểm thi cuối kì")
+    if ((a+b+c+d)/4 >= 8){
+        alert("Học lực giỏi")
+    }else {
+        if ((a+b+c+d)/4 >= 6.5){
+            alert("học lực khá")
+        }else{
+            if ((a*2+b+c)/4 >= 5){
+                alert("học lực trung bình")
+            }else {
+                alert("học lực yếu")
+            }
+
+        }
+    }
+</script>
